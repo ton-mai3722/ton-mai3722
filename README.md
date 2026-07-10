@@ -19,7 +19,7 @@ Hi there 👋, I'm Ekgaparp Nimkanjana
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/ton-mai3722">
-    <img src="https://github-readme-stats.vercel.app/api?username=ton-mai3722&show_icons=true&theme=radical&hide_border=true" alt="ton-mai3722's GitHub stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ton-mai3722&show_icons=true&theme=radical&hide_border=true" alt="ton-mai3722's GitHub stats" />
   </a>
   <a href="https://github.com/ton-mai3722">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-mai3722&theme=radical&hide_border=true" alt="ton-mai3722's GitHub streak" />
@@ -29,6 +29,6 @@ Hi there 👋, I'm Ekgaparp Nimkanjana
 ### 🏆 Top Languages
 <p align="center">
   <a href="https://github.com/ton-mai3722">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-mai3722&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ton-mai3722&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
